@@ -1,0 +1,37 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+#middle{
+    background-color: black;
+}
+#static #middle{
+    position: static;
+    top: 100px;
+    border: 1px solid white;
+}
+#relative #middle{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    
+}
+
+section{
+    position: relative;
+}
+#absolue #middle{
+    position: absolute;
+    top: 50pxpx;
+    left: 50px;
+
+}
+#fixed #middle{
+    position: fixed;
+    top: 0px;
+    left: 250px;
+}

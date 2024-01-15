@@ -1,0 +1,13 @@
+1 - Opacity and Alpha Channel[Alpha = This property is used for transparency  0 is tottaly transparrent and only uses for back-ground].
+[Opacity = It sets the opacity to the element.It is the property in which the content behind an element is hidden,and is opposite to transparency].
+2 - Position PRoperty[This property is used how the elements are positioned in a document]. [properties are = Static,Relative,Absolue,Sticky] 
+
+i - Static is positioned acording to normal flow of element.[top.right,bottom,left].
+ii - Relative
+iii - Absolute[THE element is removed form the normal document flow and no space is created for the eleement. But its position is closest to positioned ancestor]
+iv - Fixed[The element is removed from the normal document flow and no space is created for the element.But its position is relative to initial containing block]
+3 - Transform
+4 - Trnsitions[It is basically to transit something in n seconds]
+Transition Property:[Property name,duration,Time Function,Delay]
+5 - Google Fonts
+6 - The Full Story on the Background-Property
